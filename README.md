@@ -6,4 +6,4 @@ C'est une présentation remise au goût du jour que j'ai déjà donnée en 2019 
 
 Retrouvez ma présentation de 2019 : https://emma11y.github.io/parisweb2019/
 
-Retrouvez ma présentation actualisée de 2022 : https://emma11y.github.io/a11y-medias/
+Retrouvez ma présentation actualisée de 2022 : https://emma11y.github.io/a11y-medias-2022/
